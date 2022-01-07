@@ -1,0 +1,411 @@
+/* Her ser du omtrent samme kode mange steder, og det er fordelt i ID. Jeg gjorde det om til klasser, men det fungerte ikke. 
+Jeg tror dette er på grunn av at jeg skrev ikke alle verdiene selv i Adobe XD, og derfor ble verdiene litt annerledes på hver av figurene og pga. alt står tett sammen på nettsiden så blir det for vanskelig å endre på alt slik at denne CSS koden psser inn.*/
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Den_andre_og_tredje_runden {
+	position: absolute;
+	width: 1519px;
+	height: 3012px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Den andre og tredje runden;
+	--web-view-id: Den_andre_og_tredje_runden;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rektangler {
+	position: absolute;
+	width: 1519px;
+	height: 3457px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rektangel_p_toppen {
+	fill: rgba(232,58,41,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rektangel_p_toppen {
+	overflow: visible;
+	position: absolute;
+	width: 1519px;
+	height: 118.96px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rektangel_p_siden {
+	fill: rgba(232,58,41,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rektangel_p_siden {
+	overflow: visible;
+	position: absolute;
+	width: 139.838px;
+	height: 3338.04px;
+	left: 0px;
+	top: 118.96px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Bilder {
+	position: absolute;
+	width: 89.7px;
+	height: 69.354px;
+	left: 24.492px;
+	top: 25.191px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 60.592px;
+	height: 69.354px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 37.425px;
+	height: 49.305px;
+	left: 52.276px;
+	top: 1.485px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Den_andre_runden_force_ {
+	left: 244px;
+	top: 203px;
+	position: absolute;
+	overflow: visible;
+	width: 430px;
+	height: 85px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(55,55,55,1);
+}
+#La_oss_tenke_at_laget_ditt_van {
+	left: 244px;
+	top: 330px;
+	position: absolute;
+	overflow: hidden;
+	width: 688px;
+	height: 2610px;
+	line-height: 35px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(55,55,55,1);
+}
+#Den_andre_runden_eco_ {
+	left: 244px;
+	top: 1343px;
+	position: absolute;
+	overflow: visible;
+	width: 393px;
+	height: 85px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(55,55,55,1);
+}
+#Den_tredje_runden_full_buy_ {
+	left: 244px;
+	top: 2583px;
+	position: absolute;
+	overflow: visible;
+	width: 470px;
+	height: 85px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(55,55,55,1);
+}
+#Shop1bilde {
+	position: absolute;
+	width: 482px;
+	height: 271px;
+	left: 999px;
+	top: 330px;
+	overflow: visible;
+}
+#Shop2bilde {
+	position: absolute;
+	width: 482px;
+	height: 271px;
+	left: 999px;
+	top: 668px;
+	overflow: visible;
+}
+#Shop3bilde {
+	position: absolute;
+	width: 482px;
+	height: 271px;
+	left: 999px;
+	top: 992px;
+	overflow: visible;
+}
+#Shop4bilde {
+	position: absolute;
+	width: 482px;
+	height: 271px;
+	left: 999px;
+	top: 2687px;
+	overflow: visible;
+}
+#Shop5bilde {
+	position: absolute;
+	width: 482px;
+	height: 271px;
+	left: 999px;
+	top: 1414px;
+	overflow: visible;
+}
+#Shop6bilde {
+	position: absolute;
+	width: 482px;
+	height: 271px;
+	left: 999px;
+	top: 2125px;
+	overflow: visible;
+}
+#Group_3 {
+	position: absolute;
+	width: 1449.912px;
+	height: 564.509px;
+	left: 14.197px;
+	top: 50.491px;
+	overflow: visible;
+}
+#Hjemmeside {
+	left: 1313.912px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(216,216,216,1);
+}
+#Valorant {
+	left: 1152.604px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(216,216,216,1);
+}
+#Valorant_ {
+	left: 14px;
+	top: 126.953px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Runde_1 {
+	left: 16.286px;
+	top: 187.728px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Karakterer_ {
+	left: 3px;
+	top: 293.407px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Runde_23 {
+	left: 6.141px;
+	top: 232.631px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Duelists_bb {
+	left: 16px;
+	top: 354.182px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Initiators_bc {
+	left: 12.286px;
+	top: 475.733px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Controllers_bd {
+	left: 0px;
+	top: 536.509px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Sentinels_be {
+	left: 11.141px;
+	top: 414.958px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+
+/* Under: animasjoner for navbaren */
+
+#Group_3 a:hover::after {
+    width: 100%;
+}
+
+#Group_3 a::after {
+    content: '';
+    width: 0%;
+    height: 4px;
+    background: blue;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+#Group_3 a:hover::after {
+    background-color: blue;
+}
+
+#Group_3 div:after {
+    content: '';
+    width: 0%;
+    background: blue;
+    display: block;
+    margin: auto;
+    transition: 1s;
+}
+
+#Group_3 a {
+	text-decoration: none;
+	color: white;
+}
+
+#Spillmodus_glemt {
+	left: 0px;
+	top: 597.509px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}

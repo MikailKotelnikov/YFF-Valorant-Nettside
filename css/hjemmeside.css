@@ -1,0 +1,289 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Hjemmeside {
+	position: absolute;
+	width: 1519px;
+	height: 976px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Hjemmeside;
+	--web-view-id: Hjemmeside;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rektangler {
+	position: absolute;
+	width: 1519px;
+	height: 118.96px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rektangel_p_toppen {
+	fill: rgba(51,36,35,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rektangel_p_toppen {
+	overflow: visible;
+	position: absolute;
+	width: 1519px;
+	height: 118.96px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Her_kan_du_finne_guides_om_uli {
+	left: 169px;
+	top: 254px;
+	position: absolute;
+	overflow: visible;
+	width: 1183px;
+	height: 186px;
+	line-height: 35px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(55,55,55,1);
+}
+
+#Her_kan_du_finne_guides_om_uli a {
+	text-decoration: underline;
+}
+
+#Spill-guides_ {
+	left: 612px;
+	top: 169px;
+	position: absolute;
+	overflow: hidden;
+	width: 296px;
+	height: 85px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(55,55,55,1);
+}
+#Hjemmeside_t {
+	left: 1325.109px;
+	top: 45.746px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(216,216,216,1);
+}
+#Valorant {
+	left: 1163.801px;
+	top: 45.746px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(216,216,216,1);
+}
+#Rectangle_2 {
+	opacity: 0.76;
+	fill: rgba(255,119,119,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1279px;
+	height: 423px;
+	left: 120px;
+	top: 388px;
+}
+#Rectangle_1 {
+	fill: rgba(255,35,35,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 423px;
+	height: 423px;
+	left: 120px;
+	top: 388px;
+}
+#Bilder {
+	position: absolute;
+	width: 307.893px;
+	height: 239.912px;
+	left: 169px;
+	top: 479.544px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 225.566px;
+	height: 239.912px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 105.85px;
+	height: 139.452px;
+	left: 202.043px;
+	top: 4.2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Flere_guider_kommer_senere {
+	opacity: 0.8;
+	left: 419px;
+	top: 823px;
+	position: absolute;
+	overflow: visible;
+	width: 682px;
+	height: 24px;
+	line-height: 35px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(55,55,55,1);
+}
+#Guiden_om____Valorant {
+	left: 600px;
+	top: 469px;
+	position: absolute;
+	overflow: visible;
+	width: 752px;
+	height: 260px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(55,55,55,1);
+	line-height: 140px;
+}
+#Guiden_om____Valorant a {
+	text-decoration: underline;
+}
+
+/* Under: animasjoner for navbaren */
+
+#Hjemmeside_t a:hover::after {
+    width: 100%;
+}
+
+#Hjemmeside_t a::after {
+    content: '';
+    width: 0%;
+    height: 4px;
+    background: green;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+#Hjemmeside_t a:hover::after {
+    background-color: green;
+}
+
+#Hjemmeside_t div:after {
+    content: '';
+    width: 0%;
+    background: green;
+    display: block;
+    margin: auto;
+    transition: 1s;
+}
+
+#Hjemmeside_t a {
+	color: white;
+}
+
+#Valorant a:hover::after {
+    width: 100%;
+}
+
+#Valorant a::after {
+    content: '';
+    width: 0%;
+    height: 4px;
+    background: green;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+#Valorant a:hover::after {
+    background-color: green;
+}
+
+#Valorant div:after {
+    content: '';
+    width: 0%;
+    background: green;
+    display: block;
+    margin: auto;
+    transition: 1s;
+}
+
+#Valorant a {
+	color: white;
+}
+
+body a {
+	text-decoration: none;
+	color: inherit;
+}

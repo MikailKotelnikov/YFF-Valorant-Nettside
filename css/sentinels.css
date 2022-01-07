@@ -1,0 +1,424 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Sentinels {
+	position: absolute;
+	width: 1519px;
+	height: 4883px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Sentinels;
+	--web-view-id: Sentinels;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rektangler_ej {
+	position: absolute;
+	width: 1519px;
+	height: 4883px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rektangel_p_toppen_ek {
+	fill: rgba(232,58,41,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rektangel_p_toppen_ek {
+	overflow: visible;
+	position: absolute;
+	width: 1519px;
+	height: 118.96px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rektangel_p_siden_el {
+	fill: rgba(232,58,41,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rektangel_p_siden_el {
+	overflow: visible;
+	position: absolute;
+	width: 139.838px;
+	height: 4764.04px;
+	left: 0px;
+	top: 118.96px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Bilder_em {
+	position: absolute;
+	width: 89.7px;
+	height: 69.354px;
+	left: 24.492px;
+	top: 25.191px;
+	overflow: visible;
+}
+#Path_1_en {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_1_en {
+	overflow: visible;
+	position: absolute;
+	width: 60.592px;
+	height: 69.354px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2_eo {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_2_eo {
+	overflow: visible;
+	position: absolute;
+	width: 37.425px;
+	height: 49.305px;
+	left: 52.276px;
+	top: 1.485px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Sentinels_ {
+	left: 221px;
+	top: 203px;
+	position: absolute;
+	overflow: visible;
+	width: 172px;
+	height: 85px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(55,55,55,1);
+}
+#Sentinels_er_en_agentklasse_so {
+	left: 221px;
+	top: 291px;
+	position: absolute;
+	overflow: visible;
+	width: 1183px;
+	height: 4592px;
+	line-height: 35px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(55,55,55,1);
+}
+#Killjoy_ {
+	left: 301px;
+	top: 2979px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	height: 85px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(55,55,55,1);
+}
+#Cypher_ {
+	left: 301px;
+	top: 1900px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 85px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(55,55,55,1);
+}
+#Sage_ {
+	left: 301px;
+	top: 496px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	height: 85px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(55,55,55,1);
+}
+#Group_5 {
+	position: absolute;
+	width: 1449.912px;
+	height: 564.509px;
+	left: 10.196px;
+	top: 45.746px;
+	overflow: visible;
+}
+#Hjemmeside_ev {
+	left: 1313.913px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(216,216,216,1);
+}
+#Valorant_ew {
+	left: 1152.604px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(216,216,216,1);
+}
+#Valorant_ex {
+	left: 14px;
+	top: 126.953px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Runde_1_ey {
+	left: 16.287px;
+	top: 187.728px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Karakterer_ez {
+	left: 3px;
+	top: 293.407px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Runde_23_e {
+	left: 6.141px;
+	top: 232.631px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Duelists_e {
+	left: 16px;
+	top: 354.182px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Initiators_e {
+	left: 12.287px;
+	top: 475.733px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Controllers_e {
+	left: 0px;
+	top: 536.509px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Sentinels_e {
+	left: 11.141px;
+	top: 414.958px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
+#Chamber_ {
+	left: 301px;
+	top: 4085px;
+	position: absolute;
+	overflow: visible;
+	width: 162px;
+	height: 85px;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(55,55,55,1);
+}
+
+/* Her ser du omtrent samme kode mange steder, og det er fordelt i ID. Jeg gjorde det om til klasser, men det fungerte ikke. 
+Jeg tror dette er på grunn av at jeg skrev ikke alle verdiene selv i Adobe XD, og derfor ble verdiene litt annerledes på hver av figurene og pga. alt står tett sammen på nettsiden så blir det for vanskelig å endre på alt slik at denne CSS koden psser inn.*/
+
+#Sagebilde {
+	position: absolute;
+	width: 64px;
+	height: 63px;
+	left: 221px;
+	top: 496px;
+	overflow: visible;
+}
+#Cypherbilde {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	left: 221px;
+	top: 1900px;
+	overflow: visible;
+}
+#Killjoybilde {
+	position: absolute;
+	width: 64px;
+	height: 65px;
+	left: 221px;
+	top: 2979px;
+	overflow: visible;
+}
+#Chamberbilde {
+	position: absolute;
+	width: 64px;
+	height: 63px;
+	left: 221px;
+	top: 4085px;
+	overflow: visible;
+}
+
+/* Under: animasjoner for navbaren */
+
+#Group_5 a:hover::after {
+    width: 100%;
+}
+
+#Group_5 a::after {
+    content: '';
+    width: 0%;
+    height: 4px;
+    background: blue;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+#Group_5 a:hover::after {
+    background-color: blue;
+}
+
+#Group_5 div:after {
+    content: '';
+    width: 0%;
+    background: blue;
+    display: block;
+    margin: auto;
+    transition: 1s;
+}
+
+#Group_5 a {
+	text-decoration: none;
+	color: white;
+}
+
+#Spillmodus_glemt {
+	left: 0px;
+	top: 597.509px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(216,216,216,1);
+}
